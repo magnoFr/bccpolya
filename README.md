@@ -3,7 +3,7 @@ O problema consiste em desenvolver uma função que calcule a aproximação da r
 
 
 Solução matemática:
-Atravéz do método babilônico foi feito:
+Através do método babilônico foi feito:
 A0=média aritimética das raizes exatas sucessoras e antecessoras de n
 n=variavel
 B0=n/A0
