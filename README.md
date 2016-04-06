@@ -9,7 +9,7 @@ n=variavel
 B0=n/A0
 
 após isso deve verificar o erro de aproximação dado por E=|B(k)2-n|>10^-4
-coso falso usar a posiçao K
+caso falso usar a posiçao K
 K=1
 A1=(A0+B0)/2 e B1=n/A1
 
