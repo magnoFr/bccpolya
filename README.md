@@ -18,7 +18,7 @@ A2=(A1+B1)/2 e B1=n/A2
 
 esse processo continuará até E ser verdadeiro
 
-Após analizar poderá observar  que
+Após analisar poderá observar  que
 B(k)=n/A(k) 
 B(k)=((n/(((n/A(k-1))+A(k-1))/2))+(((n/A(k-1))+A(k-1))/2))/2
 Sendo que A(k-1) pode ser dado como a raiz exata mais próxima de n;
