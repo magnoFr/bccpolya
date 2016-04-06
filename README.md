@@ -60,4 +60,4 @@ fim
 
 
 Termo "polya":
-O uso desse termo como nome do repositório se dá pelo matemático George Pólya, que desenvolvel o método de solucionar problemas. A ligação dele é dada pelo problema que que nos foi apresentado e apartir desse problema chegar até uma solução que poderia ser resolvido usando seus métodos;# bccpolya
+O uso desse termo como nome do repositório se dá pelo matemático George Pólya, que desenvolveu o método de solucionar problemas. A ligação dele é dada pelo problema que que nos foi apresentado e a partir desse problema chegar até uma solução que poderia ser resolvida usando seus métodos;# bccpolya
